@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite">
+ <test name="LoginTest" allow-return-values="true">
+     <classes>
+         <class name="com.selenium.datadriven.test.LoginTest"></class>
+     </classes>
+ </test>
+ 
+<!-- <test name="SearchFlightTest" allow-return-values="true">
+     <classes>
+         <class name="com.maven.project.test.SearchFlightTest"></class>
+     </classes>
+ </test> -->
+  
+</suite>
